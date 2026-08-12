@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Mundogordo67.aternos.me"
+    "ip": "oafonsoegordo.aternos.me:41877"
 ,
-    "port": 63432,
+    "port": 41877,
     "version": "",
     "try-creative": false
   },
